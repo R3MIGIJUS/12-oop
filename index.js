@@ -1,1 +1,1 @@
-console.log("Nodemon");
+console.log("kaip sekasi");
