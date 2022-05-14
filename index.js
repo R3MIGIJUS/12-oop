@@ -1,4 +1,4 @@
-/*
+
 const Dog = require ('./js/Dog');    // importavimo f-ja javaScript objektiniame programavime
 const Cat = require ('./js/Cat');
 const Horse = require('./js/Horse');
@@ -33,7 +33,7 @@ Arklys.voice();
 Arklys.voice();
 Arklys.voice();
 
-*/
+
 
 //                      NAUJAS OBJEKTAS APIE AUTOMOBILIUS
 
